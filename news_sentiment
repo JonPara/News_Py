@@ -1,0 +1,496 @@
+,tweet_source,tweet_text,tweet_date,tweet_vader_score,tweet_pos_score,tweet_neu_score,tweet_neg_score
+0,CNN,"As a prosecutor seeks to revoke Bill Cosby's $1 million bail, the 80-year-old comedian curses at him… https://t.co/M7sm7OHATq",Thu Apr 26 19:57:13 +0000 2018,0.3818,0.14,0.86,0.0
+1,CNN,"Cosby accuser Andrea Constand ""needs to be heralded for what she has done,"" says her attorney, Dolores Troiani, aft… https://t.co/n3QtaOL2hg",Thu Apr 26 19:48:46 +0000 2018,0.0,0.0,1.0,0.0
+2,CNN,"RT @CNNnewsroom: ""I'm stunned ... I'm elated for all the women,"" says Cosby accuser Patricia Steuer after Bill Cosby is found guilty in ind…",Thu Apr 26 19:45:17 +0000 2018,0.25,0.143,0.714,0.143
+3,CNN,"Immediately after learning that Bill Cosby was convicted of indecent assault, some accusers cry, hug, and celebrate… https://t.co/d2uzVdSVYx",Thu Apr 26 19:39:17 +0000 2018,-0.5859,0.124,0.6,0.276
+4,CNN,"""Money and power, or who you are, will not stop us from a criminal investigation or prosecuting a case."" Kevin Stee… https://t.co/VK73ypGHkp",Thu Apr 26 19:25:28 +0000 2018,-0.3637,0.081,0.773,0.146
+5,CNN,Bill Cosby was not ordered to stay in jail before his sentencing; accuser Lili Bernard says that “he should go stra… https://t.co/U0kJcLdFfM,Thu Apr 26 19:09:33 +0000 2018,-0.1531,0.0,0.929,0.071
+6,CNN,“The jury has restored my faith in humanity. I feel like I’m dreaming and I need to be pinched to be woken.” Bill C… https://t.co/nt872iudkR,Thu Apr 26 19:02:56 +0000 2018,0.7717,0.278,0.722,0.0
+7,CNN,"RT @CNNSitRoom: ""Today, this jury has shown that what the 'Me Too' movement is saying is that women are worthy of being believed."" One of B…",Thu Apr 26 18:44:13 +0000 2018,0.4404,0.104,0.896,0.0
+8,CNN,Bill Cosby’s attorney: “We are very disappointed by the verdict… the fight is not over.” https://t.co/7Me50zypbC https://t.co/4lyHJYoR0k,Thu Apr 26 18:43:12 +0000 2018,-0.7178,0.0,0.715,0.285
+9,CNN,"RT @CNNSitRoom: It’s a ""victory for all sexual assault survivors, female and male, it’s a victory for womanhood. I thank the jury so much f…",Thu Apr 26 18:30:26 +0000 2018,-0.3182,0.095,0.76,0.144
+10,CNN,Bill Cosby walks out of the courtroom after he was found guilty on all three counts in his indecent assault trial… https://t.co/giwKCvOTKk,Thu Apr 26 18:15:08 +0000 2018,-0.765,0.0,0.752,0.248
+11,CNN,BREAKING: Bill Cosby has been convicted of all three counts against him in his indecent assault trial… https://t.co/xtimJ9CZ3S,Thu Apr 26 17:57:10 +0000 2018,-0.5859,0.0,0.817,0.183
+12,CNN,"JUST IN: The jury in the Bill Cosby indecent assault trial has reached a verdict, according to media reports… https://t.co/FIVe71wHje",Thu Apr 26 17:50:10 +0000 2018,-0.4215,0.132,0.702,0.167
+13,CNN,"This teacher takes home just $320/week — less than her teen daughter makes as a nanny.
+
+Arizona teachers explain wh… https://t.co/i7Q8gYVhd0",Thu Apr 26 17:42:33 +0000 2018,0.0,0.0,1.0,0.0
+14,CNN,"President Trump will visit the United Kingdom in July, the White House and Downing Street announce… https://t.co/XhSYk9zHK7",Thu Apr 26 17:32:32 +0000 2018,0.4215,0.149,0.851,0.0
+15,CNN,JUST IN: The Senate confirms Mike Pompeo as President Trump's second secretary of state https://t.co/17dFuL4HKk https://t.co/pJhkF21SDW,Thu Apr 26 17:14:12 +0000 2018,0.0,0.0,1.0,0.0
+16,CNN,Sweden has opened the world's first public road that allows electric cars to recharge while driving… https://t.co/kLpOHOCfMp,Thu Apr 26 17:00:25 +0000 2018,0.0,0.0,1.0,0.0
+17,CNN,EPA Administrator Scott Pruitt says the controversial sound proof booth installed at his office is not the type use… https://t.co/CBwH4rWyQL,Thu Apr 26 16:47:23 +0000 2018,-0.2023,0.0,0.913,0.087
+18,CNN,These kids were being bullied. Then a photographer transformed them into Avengers superheroes… https://t.co/SpTOH0vdax,Thu Apr 26 16:36:22 +0000 2018,-0.6249,0.0,0.745,0.255
+19,CNN,French President Macron concedes it's going to take way more work to keep US President Trump in the Iran nuclear de… https://t.co/zc4IOY7bxd,Thu Apr 26 16:20:06 +0000 2018,0.0,0.0,1.0,0.0
+20,Fox News,Former prosecutor explains why this Bill Cosby sexual assault retrial turned out differently: https://t.co/WIpEIuNYRa,Thu Apr 26 19:52:35 +0000 2018,-0.5859,0.0,0.774,0.226
+21,Fox News,"DA Kevin Steele on Bill Cosby's courtroom outburst: ""You got to see a brief view of who he was."" https://t.co/CO0vmKM1Eh",Thu Apr 26 19:42:01 +0000 2018,0.0,0.0,1.0,0.0
+22,Fox News,RIGHT NOW: Bill Cosby arrives home after guilty verdict. https://t.co/jn84ydmy9k https://t.co/INtXb8sIDY,Thu Apr 26 19:28:21 +0000 2018,-0.296,0.119,0.672,0.209
+23,Fox News,This new court sketch depicts the Bill Cosby verdict in a Pennsylvania courthouse today. Cosby was found guilty of… https://t.co/WJuXDHhYGU,Thu Apr 26 19:26:51 +0000 2018,-0.296,0.075,0.794,0.131
+24,Fox News,"Moments after comedian Bill Cosby was found guilty of sexual assault, his attorney Tom Mesereau denounced the verdi… https://t.co/bH2lGIZUAN",Thu Apr 26 19:25:24 +0000 2018,-0.6124,0.103,0.635,0.262
+25,Fox News,"""We are very disappointed by the verdict. We don't think Mr. Cosby's guilty of anything, and the fight is not over.… https://t.co/bzXFeyf8TD",Thu Apr 26 19:20:03 +0000 2018,-0.8016,0.056,0.634,0.31
+26,Fox News,Montgomery County prosecutors hold a news conference after Bill Cosby was found guilty of sexual assault.… https://t.co/Z1djuQB6xQ,Thu Apr 26 19:10:31 +0000 2018,-0.4215,0.0,0.843,0.157
+27,Fox News,".@kimguilfoyle: ""Expect that [Bill Cosby] will in fact appeal this case."" https://t.co/jn84ydmy9k https://t.co/TaNkkpoFX3",Thu Apr 26 19:06:46 +0000 2018,0.0,0.0,1.0,0.0
+28,Fox News,TONIGHT: Don't miss @BretBaier's interview with former FBI Director James @Comey on #SpecialReport at 6p ET.… https://t.co/AComwaekHj,Thu Apr 26 19:00:03 +0000 2018,0.1139,0.083,0.917,0.0
+29,Fox News,"Bill Cosby lashes out in profane rant after being found guilty of drugging, assaulting woman in 2004
+https://t.co/6cZE6oRS7A",Thu Apr 26 18:59:56 +0000 2018,-0.8176,0.0,0.638,0.362
+30,Fox News,"""It is a victory for all sexual assault survivors."" 
+
+Bill Cosby accusers made remarks shortly after the comedian w… https://t.co/0KHFmksUuP",Thu Apr 26 18:51:31 +0000 2018,-0.296,0.111,0.726,0.162
+31,Fox News,.@ShepNewsTeam: Bill Cosby's passport has been removed. https://t.co/jn84ydmy9k https://t.co/oiYzo6IkV7,Thu Apr 26 18:48:02 +0000 2018,0.0,0.0,1.0,0.0
+32,Fox News,Bill Cosby exits the courthouse after being found guilty on 3 sexual assault charges. https://t.co/exrFTK5rxq,Thu Apr 26 18:47:27 +0000 2018,-0.8271,0.0,0.558,0.442
+33,Fox News,Cosby attorney: The fight is not over. https://t.co/jn84ydmy9k https://t.co/Khdkh95GbP,Thu Apr 26 18:46:13 +0000 2018,-0.3818,0.0,0.755,0.245
+34,Fox News,".@GloriaAllred: ""They took the risks so that their truth could be known, so that their truth could be believed, and… https://t.co/CfDy1lqK85",Thu Apr 26 18:29:58 +0000 2018,0.4638,0.203,0.714,0.083
+35,Fox News,".@GloriaAllred: ""It's been a very long journey but this an her-storic result. This was her-story. Not his-story, no… https://t.co/AiT9kNa1YS",Thu Apr 26 18:28:34 +0000 2018,0.0,0.0,1.0,0.0
+36,Fox News,".@GloriaAllred: ""The jury in this second criminal trial found that they believed women."" https://t.co/jn84ydmy9k https://t.co/AHyL7kDED4",Thu Apr 26 18:26:48 +0000 2018,-0.5267,0.0,0.805,0.195
+37,Fox News,".@GloriaAllred: ""After all is said and done, women were finally believed."" https://t.co/jn84ydmy9k https://t.co/rPhpP8Gx10",Thu Apr 26 18:26:06 +0000 2018,0.0,0.0,1.0,0.0
+38,Fox News,".@GloriaAllred: ""We're very, very happy and proud of this result. Beginning in late 2014, the accusers of Mr. Cosby… https://t.co/AT9B3MESy0",Thu Apr 26 18:25:33 +0000 2018,0.8241,0.298,0.702,0.0
+39,Fox News,"Judge in Michael Cohen case allows 'special master' to review seized files, Stormy enters fray- via @brookefoxnews 
+https://t.co/ZhSQOh6Ic8",Thu Apr 26 18:24:34 +0000 2018,0.4019,0.137,0.863,0.0
+40,The New York Times,This year’s Emmys will be an “SNL” affair https://t.co/yCGVCdFLfO,Thu Apr 26 19:50:07 +0000 2018,0.0,0.0,1.0,0.0
+41,The New York Times,Alfie Evans' doctors say he is profoundly brain damaged and cannot improve. His parents aren't convinced. Their dis… https://t.co/MyEFOPv8qR,Thu Apr 26 19:40:05 +0000 2018,-0.7625,0.0,0.679,0.321
+42,The New York Times,RT @nytopinion: .@CharlesMBlow: The idea that the primary motivator for Trump support was economic anxiety was a false narrative swallowed…,Thu Apr 26 19:30:04 +0000 2018,0.25,0.126,0.794,0.079
+43,The New York Times,One NYT commenter's reaction to Bill Cosby being found guilty of sexually assaulting a woman at his home 14 years a… https://t.co/5oxOyTg6if,Thu Apr 26 19:20:06 +0000 2018,-0.7269,0.0,0.757,0.243
+44,The New York Times,One NYT commenter's reaction to Bill Cosby being found guilty of sexually assaulting a woman at his home 14 years a… https://t.co/uU3Zc2VPXF,Thu Apr 26 19:15:09 +0000 2018,-0.7269,0.0,0.757,0.243
+45,The New York Times,How to spend 36 hours in Copenhagen https://t.co/buQDuDEGFe,Thu Apr 26 19:10:05 +0000 2018,0.0,0.0,1.0,0.0
+46,The New York Times,"Before she died at 30, Maria Bochkareva became one of Russia's first female army officers and commanded an all-wome… https://t.co/sV7cNRQBUu",Thu Apr 26 19:00:15 +0000 2018,-0.5574,0.0,0.841,0.159
+47,The New York Times,"“The whole case stands or falls on her. She is it,” a former DA and judge said last year of Andrea Constand. Read m… https://t.co/27AquoxQ9L",Thu Apr 26 18:53:55 +0000 2018,0.0,0.0,1.0,0.0
+48,The New York Times,RT @nytopinion: Mr. Trump told voters that he would hire the “best people.” What we have got instead is an administration that is incompete…,Thu Apr 26 18:50:05 +0000 2018,0.0,0.0,1.0,0.0
+49,The New York Times,Say goodbye to Yawkey Way. Boston is renaming the popular spot outside Fenway Park after concerns about the name's… https://t.co/zpxyEy500H,Thu Apr 26 18:40:03 +0000 2018,0.4215,0.128,0.872,0.0
+50,The New York Times,"Here’s what we know so far about Joseph James DeAngelo, the Golden State Killer suspect https://t.co/paM2V3stJt",Thu Apr 26 18:30:07 +0000 2018,-0.7579,0.0,0.683,0.317
+51,The New York Times,What exactly happened between Bill Cosby and Andrea Constand in his home near Philadelphia more than 14 years ago?… https://t.co/tq5Ml6EUV8,Thu Apr 26 18:23:24 +0000 2018,0.0,0.0,1.0,0.0
+52,The New York Times,This simple side dish takes only 15 minutes to make https://t.co/r1AQ6kz35q,Thu Apr 26 18:20:05 +0000 2018,0.0,0.0,1.0,0.0
+53,The New York Times,"RT @IKershner: Four years later, an Israeli police officer will serve nine months jail time for fatally shooting a teenage Palestinian prot…",Thu Apr 26 18:10:03 +0000 2018,-0.6369,0.0,0.826,0.174
+54,The New York Times,"If the world economy was coming out of its low-inflation funk, this is probably what it would look like https://t.co/yggwZsf0uW",Thu Apr 26 18:00:07 +0000 2018,0.3612,0.116,0.884,0.0
+55,The New York Times,"Breaking News: Bill Cosby has been found guilty of sexually assaulting Andrea Constand, capping the downfall of one… https://t.co/JaPlD8TF4Q",Thu Apr 26 17:55:45 +0000 2018,-0.7269,0.0,0.736,0.264
+56,The New York Times,"The Jacksonville Jaguars’ billionaire owner, Shahid Khan, has taken his team to London’s iconic Wembley Stadium ann… https://t.co/YhWuSisHnt",Thu Apr 26 17:50:07 +0000 2018,0.0,0.0,1.0,0.0
+57,The New York Times,"RT @NYTObits: Sachio Kinugasa, the Japanese slugger who in 1987 broke Lou Gehrig’s record for consecutive games played, only to see his tes…",Thu Apr 26 17:40:06 +0000 2018,-0.1027,0.092,0.802,0.107
+58,The New York Times,"A Senate panel advanced a bill to let special counsels appeal firings. It’s unlikely to come to a full vote, but is… https://t.co/NltwyXobj8",Thu Apr 26 17:30:05 +0000 2018,0.3291,0.157,0.843,0.0
+59,The New York Times,Do the Democrats have a reasonable chance to regain a majority in the House? Here are 4 factors to consider. https://t.co/TAQdXgBHjW,Thu Apr 26 17:20:07 +0000 2018,0.25,0.105,0.895,0.0
+60,BBC,"Take a detailed look at ambulance services, from the highly pressurised control rooms to the crews on the street. 🚑… https://t.co/ACZOCRjbgS",Thu Apr 26 19:03:04 +0000 2018,-0.1761,0.0,0.918,0.082
+61,BBC,"Follow a young family of falcons as they grow up in downtown Chicago. 🦅
+
+Natural World: Super Fast Falcon | 8pm |… https://t.co/fDzkfaxMNM",Thu Apr 26 18:33:03 +0000 2018,0.7506,0.262,0.738,0.0
+62,BBC,"😯 This woman from the 1920s looks EXACTLY like Benedict Cumberbatch.  
+#TheGNShow https://t.co/ZkdgiM7ZVg",Thu Apr 26 18:01:09 +0000 2018,0.3612,0.185,0.815,0.0
+63,BBC,"RT @cbbc: If you can't wait to see @iamradzi on this week's ep of #BluePeter, turn him into an alien on the CBBC Buzz app! 📲🖍️➡️ https://t.…",Thu Apr 26 16:08:02 +0000 2018,0.0,0.0,1.0,0.0
+64,BBC,🔥👩‍🚒 These helmets use AR to help firefighters see through smoke. https://t.co/g0807qwa7z,Thu Apr 26 16:00:25 +0000 2018,0.4019,0.197,0.803,0.0
+65,BBC,"RT @bbcpress: Ahead of the final episode of #Civilisations, @Simon_Schama reveals his highlights from the series. Civilisations concludes t…",Thu Apr 26 15:32:09 +0000 2018,0.0,0.0,1.0,0.0
+66,BBC,RT @bbcthree: FYI baby Neil from Gavin and Stacey is now a 10-year-old https://t.co/yGthNqOfZK,Thu Apr 26 14:34:22 +0000 2018,0.368,0.174,0.826,0.0
+67,BBC,"🍽 Should you become a vegan?
+
+
+Weigh up the pros and cons of meat-eating and veganism. 
+
+🤔
+
+https://t.co/g1xCjnAQFL https://t.co/tzJtDxicA7",Thu Apr 26 14:13:03 +0000 2018,0.0,0.0,1.0,0.0
+68,BBC,RT @BBCScotlandNews: Polar bear cub to be named Hamish after public vote https://t.co/HgNRA8gLMu https://t.co/00LK3653xE,Thu Apr 26 13:56:59 +0000 2018,0.0,0.0,1.0,0.0
+69,BBC,"🎤Rapper @kanyewest has a way with words. But instead of rap lyrics, these days he’s dropping knowledge on Twitter.… https://t.co/gInfDANKoX",Thu Apr 26 12:58:05 +0000 2018,0.0,0.0,1.0,0.0
+70,BBC,💣🐜 Ever heard of 'exploding ants'? https://t.co/im9JhvRJtS,Thu Apr 26 12:01:05 +0000 2018,0.0,0.0,1.0,0.0
+71,BBC,"More than 40 companies, who are responsible for over 80% of UK supermarkets' plastic packaging, have signed up to a… https://t.co/Te1iNrkH3D",Thu Apr 26 10:27:28 +0000 2018,0.3182,0.103,0.897,0.0
+72,BBC,"🦎 Komodo dragons take on prey ten times their size!
+#NaturesBiggestBeasts https://t.co/0WskNgK7aV",Thu Apr 26 08:01:06 +0000 2018,0.0,0.0,1.0,0.0
+73,BBC,"🚑 In a medical emergency, the right response can save lives – but many of us are still doing the wrong thing...
+👉… https://t.co/ncRpVF4Ybm",Thu Apr 26 07:29:06 +0000 2018,-0.5927,0.081,0.691,0.228
+74,BBC,👟🗑 Do you plog? https://t.co/oN1HxQzQJS,Thu Apr 26 07:00:10 +0000 2018,0.0,0.0,1.0,0.0
+75,BBC,"In 1941, Josef Jakobs was executed at the Tower of London, marking the end of a chapter in its history. https://t.co/q9nwuRjqmv",Wed Apr 25 20:12:00 +0000 2018,0.0,0.0,1.0,0.0
+76,BBC,"Hugh Fearnley-Whittingstall is on a mission, asking food producers, restaurants and the government to confront Brit… https://t.co/EcfjGY9Hqo",Wed Apr 25 19:03:06 +0000 2018,-0.1779,0.0,0.898,0.102
+77,BBC,☀️🛶 How an isolated indigenous community in Ecuador is protecting the Amazon jungle with its first solar powered ca… https://t.co/yHNXh2C0ZO,Wed Apr 25 18:00:25 +0000 2018,-0.1531,0.077,0.818,0.105
+78,BBC,"🌱🍓 A man has told of how he 'got his mum back' after a diagnosis of Alzheimer's, in part, by getting her to follow… https://t.co/Bj8a8iAK61",Wed Apr 25 17:01:10 +0000 2018,0.0,0.0,1.0,0.0
+79,BBC,❤️🐿 The dating scene is tough when you're a red squirrel... https://t.co/BUTI5sOp3R,Wed Apr 25 16:00:21 +0000 2018,-0.128,0.0,0.87,0.13
+80,CNN,"As a prosecutor seeks to revoke Bill Cosby's $1 million bail, the 80-year-old comedian curses at him… https://t.co/M7sm7OHATq",Thu Apr 26 19:57:13 +0000 2018,0.3818,0.14,0.86,0.0
+81,CNN,"Cosby accuser Andrea Constand ""needs to be heralded for what she has done,"" says her attorney, Dolores Troiani, aft… https://t.co/n3QtaOL2hg",Thu Apr 26 19:48:46 +0000 2018,0.0,0.0,1.0,0.0
+82,CNN,"RT @CNNnewsroom: ""I'm stunned ... I'm elated for all the women,"" says Cosby accuser Patricia Steuer after Bill Cosby is found guilty in ind…",Thu Apr 26 19:45:17 +0000 2018,0.25,0.143,0.714,0.143
+83,CNN,"Immediately after learning that Bill Cosby was convicted of indecent assault, some accusers cry, hug, and celebrate… https://t.co/d2uzVdSVYx",Thu Apr 26 19:39:17 +0000 2018,-0.5859,0.124,0.6,0.276
+84,CNN,"""Money and power, or who you are, will not stop us from a criminal investigation or prosecuting a case."" Kevin Stee… https://t.co/VK73ypGHkp",Thu Apr 26 19:25:28 +0000 2018,-0.3637,0.081,0.773,0.146
+85,CNN,Bill Cosby was not ordered to stay in jail before his sentencing; accuser Lili Bernard says that “he should go stra… https://t.co/U0kJcLdFfM,Thu Apr 26 19:09:33 +0000 2018,-0.1531,0.0,0.929,0.071
+86,CNN,“The jury has restored my faith in humanity. I feel like I’m dreaming and I need to be pinched to be woken.” Bill C… https://t.co/nt872iudkR,Thu Apr 26 19:02:56 +0000 2018,0.7717,0.278,0.722,0.0
+87,CNN,"RT @CNNSitRoom: ""Today, this jury has shown that what the 'Me Too' movement is saying is that women are worthy of being believed."" One of B…",Thu Apr 26 18:44:13 +0000 2018,0.4404,0.104,0.896,0.0
+88,CNN,Bill Cosby’s attorney: “We are very disappointed by the verdict… the fight is not over.” https://t.co/7Me50zypbC https://t.co/4lyHJYoR0k,Thu Apr 26 18:43:12 +0000 2018,-0.7178,0.0,0.715,0.285
+89,CNN,"RT @CNNSitRoom: It’s a ""victory for all sexual assault survivors, female and male, it’s a victory for womanhood. I thank the jury so much f…",Thu Apr 26 18:30:26 +0000 2018,-0.3182,0.095,0.76,0.144
+90,CNN,Bill Cosby walks out of the courtroom after he was found guilty on all three counts in his indecent assault trial… https://t.co/giwKCvOTKk,Thu Apr 26 18:15:08 +0000 2018,-0.765,0.0,0.752,0.248
+91,CNN,BREAKING: Bill Cosby has been convicted of all three counts against him in his indecent assault trial… https://t.co/xtimJ9CZ3S,Thu Apr 26 17:57:10 +0000 2018,-0.5859,0.0,0.817,0.183
+92,CNN,"JUST IN: The jury in the Bill Cosby indecent assault trial has reached a verdict, according to media reports… https://t.co/FIVe71wHje",Thu Apr 26 17:50:10 +0000 2018,-0.4215,0.132,0.702,0.167
+93,CNN,"This teacher takes home just $320/week — less than her teen daughter makes as a nanny.
+
+Arizona teachers explain wh… https://t.co/i7Q8gYVhd0",Thu Apr 26 17:42:33 +0000 2018,0.0,0.0,1.0,0.0
+94,CNN,"President Trump will visit the United Kingdom in July, the White House and Downing Street announce… https://t.co/XhSYk9zHK7",Thu Apr 26 17:32:32 +0000 2018,0.4215,0.149,0.851,0.0
+95,CNN,JUST IN: The Senate confirms Mike Pompeo as President Trump's second secretary of state https://t.co/17dFuL4HKk https://t.co/pJhkF21SDW,Thu Apr 26 17:14:12 +0000 2018,0.0,0.0,1.0,0.0
+96,CNN,Sweden has opened the world's first public road that allows electric cars to recharge while driving… https://t.co/kLpOHOCfMp,Thu Apr 26 17:00:25 +0000 2018,0.0,0.0,1.0,0.0
+97,CNN,EPA Administrator Scott Pruitt says the controversial sound proof booth installed at his office is not the type use… https://t.co/CBwH4rWyQL,Thu Apr 26 16:47:23 +0000 2018,-0.2023,0.0,0.913,0.087
+98,CNN,These kids were being bullied. Then a photographer transformed them into Avengers superheroes… https://t.co/SpTOH0vdax,Thu Apr 26 16:36:22 +0000 2018,-0.6249,0.0,0.745,0.255
+99,CNN,French President Macron concedes it's going to take way more work to keep US President Trump in the Iran nuclear de… https://t.co/zc4IOY7bxd,Thu Apr 26 16:20:06 +0000 2018,0.0,0.0,1.0,0.0
+100,Fox News,Former prosecutor explains why this Bill Cosby sexual assault retrial turned out differently: https://t.co/WIpEIuNYRa,Thu Apr 26 19:52:35 +0000 2018,-0.5859,0.0,0.774,0.226
+101,Fox News,"DA Kevin Steele on Bill Cosby's courtroom outburst: ""You got to see a brief view of who he was."" https://t.co/CO0vmKM1Eh",Thu Apr 26 19:42:01 +0000 2018,0.0,0.0,1.0,0.0
+102,Fox News,RIGHT NOW: Bill Cosby arrives home after guilty verdict. https://t.co/jn84ydmy9k https://t.co/INtXb8sIDY,Thu Apr 26 19:28:21 +0000 2018,-0.296,0.119,0.672,0.209
+103,Fox News,This new court sketch depicts the Bill Cosby verdict in a Pennsylvania courthouse today. Cosby was found guilty of… https://t.co/WJuXDHhYGU,Thu Apr 26 19:26:51 +0000 2018,-0.296,0.075,0.794,0.131
+104,Fox News,"Moments after comedian Bill Cosby was found guilty of sexual assault, his attorney Tom Mesereau denounced the verdi… https://t.co/bH2lGIZUAN",Thu Apr 26 19:25:24 +0000 2018,-0.6124,0.103,0.635,0.262
+105,Fox News,"""We are very disappointed by the verdict. We don't think Mr. Cosby's guilty of anything, and the fight is not over.… https://t.co/bzXFeyf8TD",Thu Apr 26 19:20:03 +0000 2018,-0.8016,0.056,0.634,0.31
+106,Fox News,Montgomery County prosecutors hold a news conference after Bill Cosby was found guilty of sexual assault.… https://t.co/Z1djuQB6xQ,Thu Apr 26 19:10:31 +0000 2018,-0.4215,0.0,0.843,0.157
+107,Fox News,".@kimguilfoyle: ""Expect that [Bill Cosby] will in fact appeal this case."" https://t.co/jn84ydmy9k https://t.co/TaNkkpoFX3",Thu Apr 26 19:06:46 +0000 2018,0.0,0.0,1.0,0.0
+108,Fox News,TONIGHT: Don't miss @BretBaier's interview with former FBI Director James @Comey on #SpecialReport at 6p ET.… https://t.co/AComwaekHj,Thu Apr 26 19:00:03 +0000 2018,0.1139,0.083,0.917,0.0
+109,Fox News,"Bill Cosby lashes out in profane rant after being found guilty of drugging, assaulting woman in 2004
+https://t.co/6cZE6oRS7A",Thu Apr 26 18:59:56 +0000 2018,-0.8176,0.0,0.638,0.362
+110,Fox News,"""It is a victory for all sexual assault survivors."" 
+
+Bill Cosby accusers made remarks shortly after the comedian w… https://t.co/0KHFmksUuP",Thu Apr 26 18:51:31 +0000 2018,-0.296,0.111,0.726,0.162
+111,Fox News,.@ShepNewsTeam: Bill Cosby's passport has been removed. https://t.co/jn84ydmy9k https://t.co/oiYzo6IkV7,Thu Apr 26 18:48:02 +0000 2018,0.0,0.0,1.0,0.0
+112,Fox News,Bill Cosby exits the courthouse after being found guilty on 3 sexual assault charges. https://t.co/exrFTK5rxq,Thu Apr 26 18:47:27 +0000 2018,-0.8271,0.0,0.558,0.442
+113,Fox News,Cosby attorney: The fight is not over. https://t.co/jn84ydmy9k https://t.co/Khdkh95GbP,Thu Apr 26 18:46:13 +0000 2018,-0.3818,0.0,0.755,0.245
+114,Fox News,".@GloriaAllred: ""They took the risks so that their truth could be known, so that their truth could be believed, and… https://t.co/CfDy1lqK85",Thu Apr 26 18:29:58 +0000 2018,0.4638,0.203,0.714,0.083
+115,Fox News,".@GloriaAllred: ""It's been a very long journey but this an her-storic result. This was her-story. Not his-story, no… https://t.co/AiT9kNa1YS",Thu Apr 26 18:28:34 +0000 2018,0.0,0.0,1.0,0.0
+116,Fox News,".@GloriaAllred: ""The jury in this second criminal trial found that they believed women."" https://t.co/jn84ydmy9k https://t.co/AHyL7kDED4",Thu Apr 26 18:26:48 +0000 2018,-0.5267,0.0,0.805,0.195
+117,Fox News,".@GloriaAllred: ""After all is said and done, women were finally believed."" https://t.co/jn84ydmy9k https://t.co/rPhpP8Gx10",Thu Apr 26 18:26:06 +0000 2018,0.0,0.0,1.0,0.0
+118,Fox News,".@GloriaAllred: ""We're very, very happy and proud of this result. Beginning in late 2014, the accusers of Mr. Cosby… https://t.co/AT9B3MESy0",Thu Apr 26 18:25:33 +0000 2018,0.8241,0.298,0.702,0.0
+119,Fox News,"Judge in Michael Cohen case allows 'special master' to review seized files, Stormy enters fray- via @brookefoxnews 
+https://t.co/ZhSQOh6Ic8",Thu Apr 26 18:24:34 +0000 2018,0.4019,0.137,0.863,0.0
+120,The New York Times,This year’s Emmys will be an “SNL” affair https://t.co/yCGVCdFLfO,Thu Apr 26 19:50:07 +0000 2018,0.0,0.0,1.0,0.0
+121,The New York Times,Alfie Evans' doctors say he is profoundly brain damaged and cannot improve. His parents aren't convinced. Their dis… https://t.co/MyEFOPv8qR,Thu Apr 26 19:40:05 +0000 2018,-0.7625,0.0,0.679,0.321
+122,The New York Times,RT @nytopinion: .@CharlesMBlow: The idea that the primary motivator for Trump support was economic anxiety was a false narrative swallowed…,Thu Apr 26 19:30:04 +0000 2018,0.25,0.126,0.794,0.079
+123,The New York Times,One NYT commenter's reaction to Bill Cosby being found guilty of sexually assaulting a woman at his home 14 years a… https://t.co/5oxOyTg6if,Thu Apr 26 19:20:06 +0000 2018,-0.7269,0.0,0.757,0.243
+124,The New York Times,One NYT commenter's reaction to Bill Cosby being found guilty of sexually assaulting a woman at his home 14 years a… https://t.co/uU3Zc2VPXF,Thu Apr 26 19:15:09 +0000 2018,-0.7269,0.0,0.757,0.243
+125,The New York Times,How to spend 36 hours in Copenhagen https://t.co/buQDuDEGFe,Thu Apr 26 19:10:05 +0000 2018,0.0,0.0,1.0,0.0
+126,The New York Times,"Before she died at 30, Maria Bochkareva became one of Russia's first female army officers and commanded an all-wome… https://t.co/sV7cNRQBUu",Thu Apr 26 19:00:15 +0000 2018,-0.5574,0.0,0.841,0.159
+127,The New York Times,"“The whole case stands or falls on her. She is it,” a former DA and judge said last year of Andrea Constand. Read m… https://t.co/27AquoxQ9L",Thu Apr 26 18:53:55 +0000 2018,0.0,0.0,1.0,0.0
+128,The New York Times,RT @nytopinion: Mr. Trump told voters that he would hire the “best people.” What we have got instead is an administration that is incompete…,Thu Apr 26 18:50:05 +0000 2018,0.0,0.0,1.0,0.0
+129,The New York Times,Say goodbye to Yawkey Way. Boston is renaming the popular spot outside Fenway Park after concerns about the name's… https://t.co/zpxyEy500H,Thu Apr 26 18:40:03 +0000 2018,0.4215,0.128,0.872,0.0
+130,The New York Times,"Here’s what we know so far about Joseph James DeAngelo, the Golden State Killer suspect https://t.co/paM2V3stJt",Thu Apr 26 18:30:07 +0000 2018,-0.7579,0.0,0.683,0.317
+131,The New York Times,What exactly happened between Bill Cosby and Andrea Constand in his home near Philadelphia more than 14 years ago?… https://t.co/tq5Ml6EUV8,Thu Apr 26 18:23:24 +0000 2018,0.0,0.0,1.0,0.0
+132,The New York Times,This simple side dish takes only 15 minutes to make https://t.co/r1AQ6kz35q,Thu Apr 26 18:20:05 +0000 2018,0.0,0.0,1.0,0.0
+133,The New York Times,"RT @IKershner: Four years later, an Israeli police officer will serve nine months jail time for fatally shooting a teenage Palestinian prot…",Thu Apr 26 18:10:03 +0000 2018,-0.6369,0.0,0.826,0.174
+134,The New York Times,"If the world economy was coming out of its low-inflation funk, this is probably what it would look like https://t.co/yggwZsf0uW",Thu Apr 26 18:00:07 +0000 2018,0.3612,0.116,0.884,0.0
+135,The New York Times,"Breaking News: Bill Cosby has been found guilty of sexually assaulting Andrea Constand, capping the downfall of one… https://t.co/JaPlD8TF4Q",Thu Apr 26 17:55:45 +0000 2018,-0.7269,0.0,0.736,0.264
+136,The New York Times,"The Jacksonville Jaguars’ billionaire owner, Shahid Khan, has taken his team to London’s iconic Wembley Stadium ann… https://t.co/YhWuSisHnt",Thu Apr 26 17:50:07 +0000 2018,0.0,0.0,1.0,0.0
+137,The New York Times,"RT @NYTObits: Sachio Kinugasa, the Japanese slugger who in 1987 broke Lou Gehrig’s record for consecutive games played, only to see his tes…",Thu Apr 26 17:40:06 +0000 2018,-0.1027,0.092,0.802,0.107
+138,The New York Times,"A Senate panel advanced a bill to let special counsels appeal firings. It’s unlikely to come to a full vote, but is… https://t.co/NltwyXobj8",Thu Apr 26 17:30:05 +0000 2018,0.3291,0.157,0.843,0.0
+139,The New York Times,Do the Democrats have a reasonable chance to regain a majority in the House? Here are 4 factors to consider. https://t.co/TAQdXgBHjW,Thu Apr 26 17:20:07 +0000 2018,0.25,0.105,0.895,0.0
+140,BBC,"Take a detailed look at ambulance services, from the highly pressurised control rooms to the crews on the street. 🚑… https://t.co/ACZOCRjbgS",Thu Apr 26 19:03:04 +0000 2018,-0.1761,0.0,0.918,0.082
+141,BBC,"Follow a young family of falcons as they grow up in downtown Chicago. 🦅
+
+Natural World: Super Fast Falcon | 8pm |… https://t.co/fDzkfaxMNM",Thu Apr 26 18:33:03 +0000 2018,0.7506,0.262,0.738,0.0
+142,BBC,"😯 This woman from the 1920s looks EXACTLY like Benedict Cumberbatch.  
+#TheGNShow https://t.co/ZkdgiM7ZVg",Thu Apr 26 18:01:09 +0000 2018,0.3612,0.185,0.815,0.0
+143,BBC,"RT @cbbc: If you can't wait to see @iamradzi on this week's ep of #BluePeter, turn him into an alien on the CBBC Buzz app! 📲🖍️➡️ https://t.…",Thu Apr 26 16:08:02 +0000 2018,0.0,0.0,1.0,0.0
+144,BBC,🔥👩‍🚒 These helmets use AR to help firefighters see through smoke. https://t.co/g0807qwa7z,Thu Apr 26 16:00:25 +0000 2018,0.4019,0.197,0.803,0.0
+145,BBC,"RT @bbcpress: Ahead of the final episode of #Civilisations, @Simon_Schama reveals his highlights from the series. Civilisations concludes t…",Thu Apr 26 15:32:09 +0000 2018,0.0,0.0,1.0,0.0
+146,BBC,RT @bbcthree: FYI baby Neil from Gavin and Stacey is now a 10-year-old https://t.co/yGthNqOfZK,Thu Apr 26 14:34:22 +0000 2018,0.368,0.174,0.826,0.0
+147,BBC,"🍽 Should you become a vegan?
+
+
+Weigh up the pros and cons of meat-eating and veganism. 
+
+🤔
+
+https://t.co/g1xCjnAQFL https://t.co/tzJtDxicA7",Thu Apr 26 14:13:03 +0000 2018,0.0,0.0,1.0,0.0
+148,BBC,RT @BBCScotlandNews: Polar bear cub to be named Hamish after public vote https://t.co/HgNRA8gLMu https://t.co/00LK3653xE,Thu Apr 26 13:56:59 +0000 2018,0.0,0.0,1.0,0.0
+149,BBC,"🎤Rapper @kanyewest has a way with words. But instead of rap lyrics, these days he’s dropping knowledge on Twitter.… https://t.co/gInfDANKoX",Thu Apr 26 12:58:05 +0000 2018,0.0,0.0,1.0,0.0
+150,BBC,💣🐜 Ever heard of 'exploding ants'? https://t.co/im9JhvRJtS,Thu Apr 26 12:01:05 +0000 2018,0.0,0.0,1.0,0.0
+151,BBC,"More than 40 companies, who are responsible for over 80% of UK supermarkets' plastic packaging, have signed up to a… https://t.co/Te1iNrkH3D",Thu Apr 26 10:27:28 +0000 2018,0.3182,0.103,0.897,0.0
+152,BBC,"🦎 Komodo dragons take on prey ten times their size!
+#NaturesBiggestBeasts https://t.co/0WskNgK7aV",Thu Apr 26 08:01:06 +0000 2018,0.0,0.0,1.0,0.0
+153,BBC,"🚑 In a medical emergency, the right response can save lives – but many of us are still doing the wrong thing...
+👉… https://t.co/ncRpVF4Ybm",Thu Apr 26 07:29:06 +0000 2018,-0.5927,0.081,0.691,0.228
+154,BBC,👟🗑 Do you plog? https://t.co/oN1HxQzQJS,Thu Apr 26 07:00:10 +0000 2018,0.0,0.0,1.0,0.0
+155,BBC,"In 1941, Josef Jakobs was executed at the Tower of London, marking the end of a chapter in its history. https://t.co/q9nwuRjqmv",Wed Apr 25 20:12:00 +0000 2018,0.0,0.0,1.0,0.0
+156,BBC,"Hugh Fearnley-Whittingstall is on a mission, asking food producers, restaurants and the government to confront Brit… https://t.co/EcfjGY9Hqo",Wed Apr 25 19:03:06 +0000 2018,-0.1779,0.0,0.898,0.102
+157,BBC,☀️🛶 How an isolated indigenous community in Ecuador is protecting the Amazon jungle with its first solar powered ca… https://t.co/yHNXh2C0ZO,Wed Apr 25 18:00:25 +0000 2018,-0.1531,0.077,0.818,0.105
+158,BBC,"🌱🍓 A man has told of how he 'got his mum back' after a diagnosis of Alzheimer's, in part, by getting her to follow… https://t.co/Bj8a8iAK61",Wed Apr 25 17:01:10 +0000 2018,0.0,0.0,1.0,0.0
+159,BBC,❤️🐿 The dating scene is tough when you're a red squirrel... https://t.co/BUTI5sOp3R,Wed Apr 25 16:00:21 +0000 2018,-0.128,0.0,0.87,0.13
+160,CNN,"Some classes of drugs used to treat depression, Parkinson's and urinary incontinence are tied to a 30% higher demen… https://t.co/2lzjuvy4K7",Thu Apr 26 16:10:02 +0000 2018,-0.25,0.115,0.726,0.158
+161,CNN,These are the possible crimes linked to the alleged Golden State Killer https://t.co/5w9xZeZbKt https://t.co/4JNOhKAwrp,Thu Apr 26 16:00:16 +0000 2018,-0.6486,0.0,0.751,0.249
+162,CNN,"""Incel"" is short for ""involuntarily celibate."" It's a movement of men who believe they have been unfairly denied se… https://t.co/ghHsCExBWG",Thu Apr 26 15:50:09 +0000 2018,-0.4404,0.0,0.861,0.139
+163,CNN,South Korea's foreign minister says she believes President Trump is largely responsible for bringing North Korean l… https://t.co/X4Gbow2Fql,Thu Apr 26 15:40:06 +0000 2018,0.3182,0.119,0.881,0.0
+164,CNN,"President Trump acknowledges for the first time that his personal attorney, Michael Cohen, is representing him with… https://t.co/djhP2I8iqH",Thu Apr 26 15:30:04 +0000 2018,0.0,0.0,1.0,0.0
+165,CNN,5 things we learned from the Ronny Jackson debacle https://t.co/7JtTEek18C https://t.co/wkO5EwxEFb,Thu Apr 26 15:19:26 +0000 2018,0.0,0.0,1.0,0.0
+166,CNN,President Trump and first lady Melania Trump are hosting an event for the Wounded Warrior Project in the East Room… https://t.co/023Oi6lA0y,Thu Apr 26 15:06:35 +0000 2018,0.0,0.0,1.0,0.0
+167,CNN,"James Comey thinks Donald Trump is empty, desperate for affirmation and lacks the confidence to be humble -- but he… https://t.co/khja8JYlYj",Thu Apr 26 15:05:22 +0000 2018,0.0258,0.093,0.776,0.131
+168,CNN,"RT @CNNPolitics: “I was not aware of the amount,” EPA chief Scott Pruitt says when asked whether he knew about the pay raises for agency ai…",Thu Apr 26 14:54:41 +0000 2018,-0.1027,0.0,0.947,0.053
+169,CNN,"President Trump says he's been too busy to get Melania a birthday present, but adds he did get the first lady ""a be… https://t.co/XEy9i911i3",Thu Apr 26 14:50:04 +0000 2018,0.0,0.0,1.0,0.0
+170,CNN,How Richard Branson went from high-school dropout to billionaire entrepreneur https://t.co/kfeVfLEQ3r https://t.co/iUJKvtX73L,Thu Apr 26 14:40:10 +0000 2018,0.0,0.0,1.0,0.0
+171,CNN,"Dr. Ronny Jackson will stay on as White House physician for now, a White House official says https://t.co/g2oxJ9Mf1u",Thu Apr 26 14:30:01 +0000 2018,0.0,0.0,1.0,0.0
+172,CNN,A federal judge in Washington state has issued a permanent injunction that blocks the Trump administration from sla… https://t.co/qc3xHERCn8,Thu Apr 26 14:20:09 +0000 2018,-0.2263,0.0,0.894,0.106
+173,CNN,"Just hours after he pried a rifle from a gunman who opened fire at a Waffle House near Nashville, James Shaw Jr. la… https://t.co/jMyRUfYjRD",Thu Apr 26 14:10:08 +0000 2018,-0.34,0.0,0.893,0.107
+174,CNN,White House physician Dr. Ronny Jackson withdraws his nomination to serve as Secretary for Veterans Affairs… https://t.co/Ah9c5TuYzK,Thu Apr 26 14:00:06 +0000 2018,0.0,0.0,1.0,0.0
+175,CNN,"President Trump takes shots at the FBI and the Justice Department, hinting at ""some point"" he might step in and tak… https://t.co/hd3ILj20U5",Thu Apr 26 13:50:04 +0000 2018,0.5267,0.139,0.861,0.0
+176,CNN,"RT @CNNnewsroom: Democratic Rep. Paul Tonko on EPA Chief Scott Pruitt: There's ""an avalanche of reports about an abuse of power, unethical…",Thu Apr 26 13:41:07 +0000 2018,-0.6369,0.0,0.833,0.167
+177,CNN,"Embattled EPA chief Scott Pruitt believes members of the administration are actively trying to get rid of him, two… https://t.co/2dE28tJIpz",Thu Apr 26 13:40:08 +0000 2018,0.3182,0.108,0.892,0.0
+178,CNN,Why a 'federal jobs guarantee' is gaining steam with Democrats https://t.co/GdakRyHiyX https://t.co/B9KoptGMD0,Thu Apr 26 13:30:09 +0000 2018,0.5859,0.348,0.652,0.0
+179,CNN,Sweden has opened the world's first public road that allows electric cars to recharge while driving… https://t.co/YFnCAYWD13,Thu Apr 26 13:22:26 +0000 2018,0.0,0.0,1.0,0.0
+180,Fox News,News conference outside courtroom where Bill Cosby has been found guilty on all 3 counts of sexual assault charges.… https://t.co/xj47oVTCVs,Thu Apr 26 18:23:14 +0000 2018,-0.765,0.0,0.72,0.28
+181,Fox News,"Outside courthouse where Bill Cosby has just been found guilty. For full live coverage, tune in to Fox News Channel… https://t.co/MKQ6gagdzI",Thu Apr 26 18:22:24 +0000 2018,-0.4215,0.0,0.877,0.123
+182,Fox News,.@kaplanli details Bill Cosby's outburst in the courtroom. https://t.co/jn84ydmy9k https://t.co/t6gdko944Y,Thu Apr 26 18:20:27 +0000 2018,0.0,0.0,1.0,0.0
+183,Fox News,"Bill Cosby, just found guilty, faces up to 30 years in prison. https://t.co/jn84ydmy9k https://t.co/j9sDkPhNpa",Thu Apr 26 18:19:12 +0000 2018,-0.7269,0.0,0.663,0.337
+184,Fox News,"Bill Cosby, moments after being found guilty. https://t.co/jn84ydmy9k https://t.co/dWxhU6pgWF",Thu Apr 26 18:11:54 +0000 2018,-0.4215,0.0,0.741,0.259
+185,Fox News,Andrea Constand leaves the courtroom after Bill Cosby found guilty. https://t.co/jn84ydmy9k https://t.co/MHAp2SiFVt,Thu Apr 26 18:11:05 +0000 2018,-0.4215,0.0,0.797,0.203
+186,Fox News,Cosby guilty: Jury rules comedian sexually assaulted Andrea Constand https://t.co/mrnwbF60br,Thu Apr 26 18:05:26 +0000 2018,-0.5574,0.165,0.443,0.392
+187,Fox News,Cosby guilty: Jury rules comedian sexually assaulted Andrea Constand https://t.co/jn84ydmy9k https://t.co/8TLK58Y9gn,Thu Apr 26 17:55:58 +0000 2018,-0.5574,0.155,0.476,0.369
+188,Fox News,BREAKING NEWS: Bill Cosby found guilty in sexual assault trial.  https://t.co/nDuzWkm0Dt,Thu Apr 26 17:53:37 +0000 2018,-0.765,0.0,0.577,0.423
+189,Fox News,BREAKING NEWS: Bill Cosby found guilty on all 3 counts. https://t.co/tuAQmvVLY8,Thu Apr 26 17:50:47 +0000 2018,-0.4215,0.0,0.763,0.237
+190,Fox News,"BREAKING NEWS: Jury has reached verdict in Bill Cosby trial - for full live coverage, tune in to Fox News Channel! https://t.co/Pj7ZVYv8r6",Thu Apr 26 17:49:18 +0000 2018,0.3164,0.148,0.852,0.0
+191,Fox News,Michigan Restaurant Owner Refuses to Take Down Flags Honoring Fallen Officers https://t.co/voWOs57FQ8,Thu Apr 26 17:48:51 +0000 2018,0.2023,0.209,0.633,0.158
+192,Fox News,JUST IN: Jury reaches verdict in Cosby sexual assault trial https://t.co/wJeKC8ImUo,Thu Apr 26 17:47:25 +0000 2018,-0.4588,0.192,0.548,0.26
+193,Fox News,Mike Pompeo picked as Trump's new secretary of state: What to know about him https://t.co/AfBXeY6sMv,Thu Apr 26 17:31:10 +0000 2018,0.0,0.0,1.0,0.0
+194,Fox News,".@JerryMoran: ""It's difficult to make a decision what the truth is when you have somebody with allegations but no p… https://t.co/TRvIGqNb6N",Thu Apr 26 17:14:44 +0000 2018,-0.4404,0.071,0.733,0.196
+195,Fox News,BREAKING NEWS: Senate confirms Mike Pompeo as secretary of state in 57-42 vote https://t.co/8fRaf4pqGk,Thu Apr 26 17:07:08 +0000 2018,0.0,0.0,1.0,0.0
+196,Fox News,".@SenWarren: ""Mike Pompeo's completely unfit to serve as America's chief diplomat."" https://t.co/zD1Ugp5agM",Thu Apr 26 17:04:47 +0000 2018,0.0,0.0,1.0,0.0
+197,Fox News,"On @foxandfriends, @TomiLahren  called for ""merit-based immigration"" in reaction to a report that a caravan of asyl… https://t.co/GC59zzVcPB",Thu Apr 26 17:00:36 +0000 2018,0.0,0.0,1.0,0.0
+198,Fox News,BREAKING NEWS: Senate has votes to confirm Mike Pompeo. https://t.co/rFYH4i2UVY,Thu Apr 26 16:57:51 +0000 2018,0.0,0.0,1.0,0.0
+199,Fox News,RT @FoxBusiness: State average for regular gas above $3 per gallon: https://t.co/woDjW902UP,Thu Apr 26 16:57:18 +0000 2018,0.0,0.0,1.0,0.0
+200,The New York Times,Federal officials are beginning to worry the economy is too good. But workers still feel left behind. https://t.co/M0tsMZiaRv,Thu Apr 26 17:10:07 +0000 2018,0.0,0.133,0.734,0.133
+201,The New York Times,RT @nytclimate: Lawmakers from both parties are grilling EPA chief Scott Pruitt on his spending decisions. Live video: https://t.co/neUlGmf…,Thu Apr 26 17:00:24 +0000 2018,0.4019,0.13,0.87,0.0
+202,The New York Times,"Breaking News: The Senate easily confirmed Mike Pompeo as the nation’s 70th secretary of state, elevating the forei… https://t.co/m9xhgD9cwz",Thu Apr 26 16:54:12 +0000 2018,0.34,0.118,0.882,0.0
+203,The New York Times,“Here I was looking up the guy on Wikipedia and he was 5 doors down” https://t.co/btavWQLMSU,Thu Apr 26 16:50:04 +0000 2018,0.0,0.0,1.0,0.0
+204,The New York Times,Who are Diamond and Silk? A look at 2 pro-Trump social media stars. https://t.co/kuHUbPq2vw https://t.co/CG75elOB38,Thu Apr 26 16:40:12 +0000 2018,0.34,0.167,0.833,0.0
+205,The New York Times,"After The New York Times revealed decades of Harvey Weinstein's sexual misconduct, Weinstein told The Hollywood Rep… https://t.co/Nxl9Fm1kXe",Thu Apr 26 16:30:12 +0000 2018,0.0,0.0,1.0,0.0
+206,The New York Times,"RT @tackettdc: “The problem we have is, we have a president who will use that as fodder to do his mission that I don’t feel is in the best…",Thu Apr 26 16:20:06 +0000 2018,-0.4019,0.0,0.906,0.094
+207,The New York Times,"Meghan Markle left ""Suits."" Here’s what she took with her. https://t.co/y7GztqyRhW https://t.co/fIxnkPHiih",Thu Apr 26 16:10:04 +0000 2018,0.0,0.0,1.0,0.0
+208,The New York Times,"“There are the drunk Waffle Houses, the late-night Waffle Houses, Waffle House as a house of freaks, but there’s al… https://t.co/9j05WzrgXM",Thu Apr 26 16:00:15 +0000 2018,-0.2263,0.0,0.861,0.139
+209,The New York Times,Angela Merkel arrives at the White House on Friday in the wake of a visit by Emmanuel Macron. Don’t expect a sequel… https://t.co/ZrsTZDdTPZ,Thu Apr 26 15:50:07 +0000 2018,0.0,0.0,1.0,0.0
+210,The New York Times,"In Opinion
+
+Op-Ed columnist Bret Stephens writes, ""The Bush model was about proving one’s worth and paying one’s du… https://t.co/Y0no0asvYp",Thu Apr 26 15:40:08 +0000 2018,0.2263,0.091,0.909,0.0
+211,The New York Times,"RT @nytimesarts: “It feels like the last task for Michelle, to bring him her questions at the end of her book — just to go, ‘My wife had so…",Thu Apr 26 15:30:11 +0000 2018,0.3612,0.085,0.915,0.0
+212,The New York Times,"At the memorial in Alabama, some of the lynchings are described in brief summaries https://t.co/lieAeoXYup https://t.co/mBrlAwnxU1",Thu Apr 26 15:20:07 +0000 2018,0.0,0.0,1.0,0.0
+213,The New York Times,"""The children were crying out for the driver to stop,"" a railways official said https://t.co/iU4AgNODnl",Thu Apr 26 15:10:08 +0000 2018,-0.4767,0.0,0.807,0.193
+214,The New York Times,"President Trump said in a call to ""Fox &amp; Friends"" that Michael Cohen represents him in ""this crazy Stormy Daniels d… https://t.co/1UENTq37Ai",Thu Apr 26 15:00:06 +0000 2018,0.09,0.125,0.765,0.111
+215,The New York Times,NFL owners and players discussed President Trump and Colin Kaepernick at a private meeting in October. The Times ob… https://t.co/Vbk2hjk5Ml,Thu Apr 26 14:45:05 +0000 2018,0.0,0.0,1.0,0.0
+216,The New York Times,"RT @nytimesarts: “My kicks are still high,” says Billy Zabka, the 52-year-old star of @CobraKaiSeries. “No mercy.” https://t.co/HLoabkOV0P",Thu Apr 26 14:30:03 +0000 2018,0.0,0.0,1.0,0.0
+217,The New York Times,"Faced with a presidential couple that controls virtually every branch of government and the news media, young peopl… https://t.co/nsN8BHpWjb",Thu Apr 26 14:14:03 +0000 2018,0.0,0.0,1.0,0.0
+218,The New York Times,"Scott Pruitt's strategy appears to be to place the blame for his activities on his staff, according to a talking po… https://t.co/OI7W9LCpON",Thu Apr 26 14:00:09 +0000 2018,-0.34,0.0,0.893,0.107
+219,The New York Times,"""I peeled his clothes from his clammy body and wrapped my arms around him to try to keep him warm. I felt his heart… https://t.co/aQZPTFfm1X",Thu Apr 26 13:45:08 +0000 2018,0.2263,0.076,0.924,0.0
+220,BBC,"🐧 🤣 When penguins... HONK!... interrupt... HONK!... your TV interview... HONK!   
+#WorldPenguinDay https://t.co/mFUZec36Ne",Wed Apr 25 14:44:29 +0000 2018,0.0,0.0,1.0,0.0
+221,BBC,"RT @BBCOne: .@HughFW is waging a war on waistlines. Tonight, 9pm, BBC One 🍔
+#BritainsFatFight https://t.co/zYC7BECRw9",Wed Apr 25 14:31:54 +0000 2018,-0.5994,0.0,0.769,0.231
+222,BBC,"RT @bbcmusic: OH HI @NiallOfficial 😍 
+
+#SoundsLikeFridayNight https://t.co/Iw2xK5wMj7",Wed Apr 25 14:30:12 +0000 2018,0.0,0.0,1.0,0.0
+223,BBC,"RT @BBC6Music: ""I essentially went to Hogwarts!""
+- @SimonPegg reveals how to have the #BiggestWeekend in his hometown of Gloucester.
+
+🎥 Lis…",Wed Apr 25 13:55:02 +0000 2018,0.0,0.0,1.0,0.0
+224,BBC,🤠 Never turn your back on a man in a cowboy hat. https://t.co/CBkcugUzBO,Wed Apr 25 13:49:16 +0000 2018,0.0,0.0,1.0,0.0
+225,BBC,RT @BBCBreakfast: Just look at these gorgeous rescued bear cubs 😍 https://t.co/2wvTLiA01U,Wed Apr 25 12:36:12 +0000 2018,0.7783,0.43,0.57,0.0
+226,BBC,RT @BBCTwo: This penguin swims thousands of miles every year to visit his best friend... 🐧💙 #WorldPenguinDay https://t.co/JlrMZ5exRE,Wed Apr 25 12:24:43 +0000 2018,0.6369,0.198,0.802,0.0
+227,BBC,Mums have responded to pictures of the Duchess of Cambridge leaving hospital following the birth of her third child… https://t.co/KQKq2MfdM8,Wed Apr 25 11:00:09 +0000 2018,0.0,0.0,1.0,0.0
+228,BBC,🔥🌶 Some people just can't handle the heat. https://t.co/bcWeeTB8F1,Wed Apr 25 10:12:00 +0000 2018,0.0,0.0,1.0,0.0
+229,BBC,RT @TWBBC: We made a chatbot. Our chatbot predicts how influential your Instagram pictures will be before you post them. Our chatbot uses m…,Wed Apr 25 08:41:42 +0000 2018,0.4404,0.116,0.884,0.0
+230,BBC,💌 This woman will write you a letter when you're going through hard times. https://t.co/6WejY9BcoI,Wed Apr 25 08:01:03 +0000 2018,-0.1027,0.0,0.896,0.104
+231,BBC,"📚 From ancient epics to modern novels, some narratives have changed history and influenced the mindsets of generati… https://t.co/QDcGy8jwXe",Wed Apr 25 07:28:08 +0000 2018,0.0,0.0,1.0,0.0
+232,BBC,"These children on Sal Island in Cape Verde are working hard to clean up their beaches. 
+#OurBluePlanet https://t.co/IziZtoSeEp",Wed Apr 25 07:01:04 +0000 2018,0.3182,0.134,0.796,0.07
+233,BBC,"A leading divorce lawyer leaves the family firm for a rival, throwing her relationships into turmoil in the process… https://t.co/AHGrKnYPhA",Tue Apr 24 19:03:07 +0000 2018,-0.3612,0.0,0.872,0.128
+234,BBC,"🐜🤖 By turning ant brains into algorithms, scientists have created robots that navigate without GPS. https://t.co/8qGDjewneC",Tue Apr 24 18:00:24 +0000 2018,0.25,0.118,0.882,0.0
+235,BBC,😲 Australian police say they will review how a 12-year-old boy travelled alone to Bali after he had a row with his… https://t.co/gskGhMaKgN,Tue Apr 24 17:01:03 +0000 2018,-0.25,0.0,0.905,0.095
+236,BBC,RT @bbcwritersroom: Want to get yr first @BBC writing credit? We're running a #Comedy monologue opportunity alongside @bbcmusic @bbcintrodu…,Tue Apr 24 16:08:00 +0000 2018,0.6908,0.309,0.691,0.0
+237,BBC,"Queen Victoria was sort of the Darth Vader of the British Empire. 
+#CunkOnBritain https://t.co/F4BGHWQtiz",Tue Apr 24 16:01:03 +0000 2018,0.0,0.0,1.0,0.0
+238,BBC,"RT @BBCOne: When divorce is a family affair... 
+
+#TheSplit. Starts tonight at 9pm on @BBCOne. https://t.co/T31iOt0GIx",Tue Apr 24 15:21:18 +0000 2018,0.0,0.0,1.0,0.0
+239,BBC,"RT @BBCTwo: The Battle of Trafalgar really slowed down trade at the Pret a Manger. 😂🇬🇧 @missdianemorgan #CunkOnBritain
+https://t.co/5tkFNfD…",Tue Apr 24 15:20:51 +0000 2018,-0.3818,0.0,0.867,0.133
+240,CNN,"In a statement announcing his withdrawal as VA secretary nominee, White House doctor Ronny Jackson slammed allegati… https://t.co/rJr1J5Hz2z",Thu Apr 26 13:10:00 +0000 2018,0.0258,0.064,0.936,0.0
+241,CNN,"President Trump denies he told former FBI Director James Comey that he didn't spend a night in Moscow: ""Of course I… https://t.co/WHH605jT14",Thu Apr 26 12:58:21 +0000 2018,-0.4215,0.0,0.877,0.123
+242,CNN,Fox News host reacts to President Trump attacking the Department of Justice: “It’s your Justice Department. Mr. Pre… https://t.co/kUDC27MAJf,Thu Apr 26 12:50:40 +0000 2018,0.5859,0.264,0.62,0.116
+243,CNN,President Trump on his longtime personal attorney Michael Cohen: “He represents me like with this crazy Stormy Dani… https://t.co/tDc7A8SBi6,Thu Apr 26 12:37:33 +0000 2018,0.0258,0.114,0.776,0.11
+244,CNN,President Trump on Dr. Ronny Jackson withdrawing his nomination as the next secretary of Veterans Affairs: “I saw w… https://t.co/B2Kb7qncXP,Thu Apr 26 12:29:59 +0000 2018,0.0,0.0,1.0,0.0
+245,CNN,South Korea's foreign minister says she believes President Trump is largely responsible for bringing North Korean l… https://t.co/sOhjNV8fmP,Thu Apr 26 12:15:13 +0000 2018,0.3182,0.119,0.881,0.0
+246,CNN,BREAKING: White House physician Dr. Ronny Jackson withdraws his nomination to serve as Secretary for Veterans Affai… https://t.co/EmtIiJceq8,Thu Apr 26 11:59:40 +0000 2018,0.0,0.0,1.0,0.0
+247,CNN,A federal judge in Washington state has issued a permanent injunction that blocks the Trump administration from sla… https://t.co/3mi2rWN14T,Thu Apr 26 11:51:02 +0000 2018,-0.2263,0.0,0.894,0.106
+248,CNN,"Orange is comforting. 
+Pink makes us less violent. 
+
+The psychology of color: https://t.co/FMeiwT4rwA https://t.co/je7IRPXFlx",Thu Apr 26 11:40:00 +0000 2018,-0.228,0.147,0.655,0.197
+249,CNN,"James Comey thinks Donald Trump is empty, desperate for affirmation and lacks the confidence to be humble -- but he… https://t.co/C3xUTdaYFv",Thu Apr 26 11:30:11 +0000 2018,0.0258,0.093,0.776,0.131
+250,CNN,"Ahead of Friday's historic summit between North Korean leader Kim Jong Un and South Korean President Moon Jae-in,… https://t.co/9UkKR47T3t",Thu Apr 26 11:30:06 +0000 2018,0.0,0.0,1.0,0.0
+251,CNN,"Just hours after he pried a rifle from a gunman who opened fire at a Waffle House near Nashville, James Shaw Jr. la… https://t.co/7Daq7RKQu7",Thu Apr 26 11:20:04 +0000 2018,-0.34,0.0,0.893,0.107
+252,CNN,"5 things for Thursday:
+
+- Emmanuel Macron
+- Michael Cohen
+- Travel ban
+- China and India
+- Golden State killer… https://t.co/BHmdIlruuc",Thu Apr 26 11:10:04 +0000 2018,-0.5574,0.0,0.806,0.194
+253,CNN,Scott Pruitt is set to face tough questions today as he goes before two House committees amid a string of controver… https://t.co/jOtK3ajNwi,Thu Apr 26 11:00:03 +0000 2018,-0.128,0.0,0.93,0.07
+254,CNN,Chinese smartphone sales suffer their biggest decline ever https://t.co/64igUWWAsE https://t.co/GlQL5f9JAc,Thu Apr 26 10:50:05 +0000 2018,-0.5423,0.0,0.72,0.28
+255,CNN,"RT @NewDay: The WH medical office has ""the same level of dysfunction that has plagued a lot of different government offices, not just under…",Thu Apr 26 10:48:21 +0000 2018,-0.4215,0.0,0.887,0.113
+256,CNN,A lot of Democratic senators want to be President. History shows it will be hard. https://t.co/QQmG4Mv59D https://t.co/N2gdP3Xka3,Thu Apr 26 10:40:07 +0000 2018,-0.0258,0.078,0.838,0.084
+257,CNN,"Former FBI director James Comey says he does not have a nickname for President Trump, calling him only ""the Preside… https://t.co/BGd8x9nNw1",Thu Apr 26 10:30:05 +0000 2018,0.0,0.0,1.0,0.0
+258,CNN,Why a 'federal jobs guarantee' is gaining steam with Democrats https://t.co/oH21eHrpMn https://t.co/GfaYrZ5ml2,Thu Apr 26 10:20:01 +0000 2018,0.5859,0.348,0.652,0.0
+259,CNN,Sweden has opened the world's first public road that allows electric cars to recharge while driving… https://t.co/nPfsUcJIfl,Thu Apr 26 10:12:40 +0000 2018,0.0,0.0,1.0,0.0
+260,Fox News,RT @FoxBusiness: Gas national average: https://t.co/0TJh3pRPB4,Thu Apr 26 16:57:16 +0000 2018,0.0,0.0,1.0,0.0
+261,Fox News,RT @FoxBusiness: Can the WWE change Saudi Arabia's views on women?   https://t.co/t4PfIcsI1e,Thu Apr 26 16:57:13 +0000 2018,0.0,0.0,1.0,0.0
+262,Fox News,".@KatiePavlich: ""President Obama's @EPA administrator spent just as much money as travel and other items as… https://t.co/EmEBC5ZblD",Thu Apr 26 16:48:42 +0000 2018,0.0,0.0,1.0,0.0
+263,Fox News,Here come the socialists: 'Comrades' seeking office in 2018 take cue from Sanders https://t.co/bdCwrbtw5V,Thu Apr 26 16:44:41 +0000 2018,0.0,0.0,1.0,0.0
+264,Fox News,Fox News Poll: Likelihood that... Trump will fire Mueller. https://t.co/VfTLzRNykJ,Thu Apr 26 16:35:45 +0000 2018,-0.34,0.0,0.789,0.211
+265,Fox News,U.S. Senate holds a vote to confirm Mike Pompeo as secretary of state. https://t.co/ce0eKZdmRi,Thu Apr 26 16:35:10 +0000 2018,0.0,0.0,1.0,0.0
+266,Fox News,Fox News Poll: Important investigations continue into Trump campaign and Russian government? https://t.co/A0BcX82SW2,Thu Apr 26 16:29:50 +0000 2018,0.2023,0.13,0.87,0.0
+267,Fox News,".@dagenmcdowell: ""[@Comey's] auditioning for a prime-time gig on @MSNBC for Pete's sake."" #Outnumbered https://t.co/eBN99T5G5t",Thu Apr 26 16:27:09 +0000 2018,0.0,0.0,1.0,0.0
+268,Fox News,"BREAKING NEWS: Explosion at Wisconsin oil refinery results in at least 20 casualties, report says https://t.co/SNrtCvZeEf",Thu Apr 26 16:20:51 +0000 2018,0.0,0.0,1.0,0.0
+269,Fox News,.@chancetherapper on @realDonaldTrump-@kanyewest friendship: 'Black people don't have to be democrats'… https://t.co/RNZ4F2pJ2Q,Thu Apr 26 16:17:14 +0000 2018,0.4404,0.209,0.791,0.0
+270,Fox News,".@CLewandowski_: ""[Dr. Ronny Jackson] is an individual who President Obama gave the highest recommendations for and… https://t.co/bftsdaEdAO",Thu Apr 26 16:06:08 +0000 2018,0.0,0.0,1.0,0.0
+271,Fox News,".@gen_jackkeane: ""@POTUS is right when he talks about previous administrations did not accomplish what they should… https://t.co/KeIA31XqMk",Thu Apr 26 16:04:00 +0000 2018,-0.3252,0.0,0.873,0.127
+272,Fox News,"MUST SEE: Tune in to @BretBaier's interview with former FBI Director James @Comey, tonight at 6p ET on Fox News Cha… https://t.co/ojLlmrdw46",Thu Apr 26 16:00:00 +0000 2018,0.0,0.0,1.0,0.0
+273,Fox News,MOMENTS AGO: Michael Cohen arrives for hearing on seized documents; @lauraingle reports. https://t.co/hTIfiQFGfq,Thu Apr 26 15:59:53 +0000 2018,0.0,0.0,1.0,0.0
+274,Fox News,BREAKING NEWS: President @realDonaldTrump to visit United Kingdom in July. https://t.co/3q67Zx5IEj,Thu Apr 26 15:49:01 +0000 2018,0.4215,0.219,0.781,0.0
+275,Fox News,"Embattled MSNBC star Joy Reid fat-shamed 'chubbed-out shrew' Rosie O'Donnell amid feud with Trump, report says https://t.co/Wa9TS6NOMS",Thu Apr 26 15:46:02 +0000 2018,0.128,0.172,0.633,0.195
+276,Fox News,Speaker Paul Ryan holds his weekly news conference. https://t.co/CxKIMWqeBd,Thu Apr 26 15:35:27 +0000 2018,0.0,0.0,1.0,0.0
+277,Fox News,".@CoryGardner: ""We're going to find out today whether people care more about the politics of sabotage than they do… https://t.co/AKTMUQU50Z",Thu Apr 26 15:34:21 +0000 2018,-0.0516,0.13,0.732,0.138
+278,Fox News,".@POTUS: ""I think @jontester has to have a big price to pay in Montana."" https://t.co/2gGJB2FofM https://t.co/KiQ1i8HBtR",Thu Apr 26 15:22:41 +0000 2018,-0.1027,0.0,0.909,0.091
+279,Fox News,"""My pledge to you, our noble warriors, is that my administration will support you and your loved ones and your amaz… https://t.co/zh7Zk5xovm",Thu Apr 26 15:20:41 +0000 2018,0.8625,0.336,0.664,0.0
+280,The New York Times,"""We can go to jail one more time if necessary. We will go on doing journalism with courage,"" said the editor in chi… https://t.co/Wd3QAmaBaG",Thu Apr 26 13:29:04 +0000 2018,0.0,0.0,1.0,0.0
+281,The New York Times,"""She genuinely wanted to care for all those around her even if it meant sacrificing a portion of herself in return… https://t.co/47aHEk6SAy",Thu Apr 26 13:14:05 +0000 2018,0.4939,0.138,0.862,0.0
+282,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/1cRbjhwAjy https://t.co/AUsFvcyR6Z,Thu Apr 26 13:00:13 +0000 2018,0.0,0.0,1.0,0.0
+283,The New York Times,"Stephen Colbert bantered about accusations that on an overseas trip Ronny Jackson ""was intoxicated and banged on th… https://t.co/BYBsWy7BoN",Thu Apr 26 12:50:07 +0000 2018,-0.3182,0.0,0.887,0.113
+284,The New York Times,Two court developments this week indicate a possible road map for President Trump through the minefield of legal re… https://t.co/2SVweXg91i,Thu Apr 26 12:40:08 +0000 2018,0.128,0.077,0.923,0.0
+285,The New York Times,"Your daily @DealBook Briefing:
+
+• Facebook can afford to clean up its act.
+
+• How NFL owners worried about protests… https://t.co/eRttJBWwzI",Thu Apr 26 12:30:07 +0000 2018,0.128,0.123,0.776,0.1
+286,The New York Times,"Sean Spicer described the wax Melania Trump as ""unbelievably lifelike"" https://t.co/DkCeJvlgZ4",Thu Apr 26 12:15:06 +0000 2018,0.0,0.0,1.0,0.0
+287,The New York Times,Breaking: Dr. Ronny Jackson withdrew as nominee to lead the V.A. after lawmakers went public with a torrent of accu… https://t.co/EPEDYcQUI6,Thu Apr 26 12:11:29 +0000 2018,0.0,0.0,1.0,0.0
+288,The New York Times,New rules for elite female track athletes with high testosterone levels: Lower your levels with medicine or compete… https://t.co/Zsj5YgIO1G,Thu Apr 26 12:00:08 +0000 2018,-0.296,0.0,0.891,0.109
+289,The New York Times,"Ronny Jackson, President Trump's pick to lead the V.A., is accused of mishandling an opioid and wrecking a car whil… https://t.co/t6k1B8hAUU",Thu Apr 26 11:45:07 +0000 2018,-0.296,0.0,0.896,0.104
+290,The New York Times,"The writer Michelle McNamara, who was married to the comedian Patton Oswalt, spent the final years of her life chas… https://t.co/3YDhVXJg2m",Thu Apr 26 11:31:07 +0000 2018,0.3818,0.115,0.885,0.0
+291,The New York Times,"Kanye West's ""dragon energy"" tweets caused bedlam among his fans https://t.co/mlr93urxO8",Thu Apr 26 11:15:07 +0000 2018,0.2732,0.174,0.826,0.0
+292,The New York Times,Supreme Court justices seem focused on one question: Should the president’s authority have anything to do with his… https://t.co/MI5mb10NcQ,Thu Apr 26 11:10:04 +0000 2018,0.7579,0.319,0.681,0.0
+293,The New York Times,Jeff Sessions refused to tell lawmakers about whether his recusal in all campaign-related investigations extended t… https://t.co/6W0BiD6xkt,Thu Apr 26 11:00:09 +0000 2018,-0.296,0.0,0.879,0.121
+294,The New York Times,"RT @nytmedia: We now have a bidding war for Sky. Comcast has unveiled a $30.7 billion bid for the British satellite broadcaster, trying to…",Thu Apr 26 10:50:05 +0000 2018,-0.5994,0.0,0.843,0.157
+295,The New York Times,"For thousands of ""Dreamers,"" the past several months have been a wild ride. And it's not over yet. https://t.co/sit3opdS20",Thu Apr 26 10:40:07 +0000 2018,0.0,0.0,1.0,0.0
+296,The New York Times,"""Let us face it: There is no Planet B,"" Emmanuel Macron said. ""I am sure one day the United States will come back a… https://t.co/BZcolj6SeE",Thu Apr 26 10:30:11 +0000 2018,0.4404,0.174,0.751,0.075
+297,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/scVm87AY6N https://t.co/X2ptQX7VWW,Thu Apr 26 10:14:07 +0000 2018,0.0,0.0,1.0,0.0
+298,The New York Times,"RT @nytimesarts: Michelle Wolf, the comedian at this year's White House Correspondents' dinner, has no interest in knee-jerk jokes about Pr…",Thu Apr 26 10:00:21 +0000 2018,0.6597,0.284,0.634,0.082
+299,The New York Times,"The Golden State Killer is thought to have killed 12 people, raped 45 people and burglarized more than 120 homes be… https://t.co/GRnm1B4cRV",Thu Apr 26 09:44:04 +0000 2018,-0.9371,0.0,0.586,0.414
+300,BBC,RT @BBCNews: Gun salute takes place in London for new prince https://t.co/g5AEWrmRec https://t.co/dBoijinHBe,Tue Apr 24 15:16:28 +0000 2018,-0.34,0.0,0.833,0.167
+301,BBC,"🤢🥚The planet Uranus has clouds made up of hydrogen sulphide, the gas that gives rotten eggs their unpleasant smell,… https://t.co/WWBR6BuUa3",Tue Apr 24 15:00:24 +0000 2018,-0.7506,0.0,0.738,0.262
+302,BBC,"📸❤️ This wedding photo will give you all the feels...
+
+It's by the most committed photographer ever.
+👉… https://t.co/BRtArfWGTM",Tue Apr 24 13:01:04 +0000 2018,0.3384,0.117,0.883,0.0
+303,BBC,"🐰 When your pet rabbit has got RAGE issues. 
+#NightmarePetsSOS https://t.co/EQF2bAPgIF",Tue Apr 24 12:00:21 +0000 2018,-0.6523,0.0,0.675,0.325
+304,BBC,"The faecal transplant, also known as trans-poo-sion, surely has the title of medicine's most disgusting procedure..… https://t.co/433qH3AFV6",Tue Apr 24 11:10:06 +0000 2018,-0.2006,0.134,0.695,0.171
+305,BBC,Cheers! 🍬🍋 Sweet maker Gillian shows @NishaKatona how to make her gin and tonic marshmallows. #TopOfTheShop https://t.co/zLqZBO0Hg0,Tue Apr 24 10:33:00 +0000 2018,0.75,0.299,0.701,0.0
+306,BBC,RT @BBCOne: Less than one month to go until the #RoyalWedding!  👰 💑 💍🎉❤️ https://t.co/4tpY4OERd0,Tue Apr 24 10:12:04 +0000 2018,0.0,0.0,1.0,0.0
+307,BBC,"RT @bbceurovision: ""May we have your points please?..."" @Rylan prepares the 2018 #Eurovision artists for the all important scoring. 🤣 https…",Tue Apr 24 10:08:25 +0000 2018,0.2023,0.087,0.913,0.0
+308,BBC,RT @BBCNewsround: Why is Millicent Fawcett getting her own statue in Parliament Square? https://t.co/e6fNQd9ezH https://t.co/y09ruvrxIT,Tue Apr 24 09:08:33 +0000 2018,0.0,0.0,1.0,0.0
+309,BBC,RT @BBCLookEast: Well done @simonsmarathon who completed the London Marathon late last night - he is the first man to finish the race using…,Tue Apr 24 09:02:42 +0000 2018,0.2732,0.087,0.913,0.0
+310,BBC,"RT @BBCGetIn: **DEADLINE ALERT**
+
+Just 4 days left to apply for our Communications Trainee Scheme!
+
+Applications close on Thursday 26th Apr…",Tue Apr 24 08:47:41 +0000 2018,0.0,0.0,1.0,0.0
+311,BBC,❤️ This make-up artist is using her skills to help scarred women feel beautiful again. https://t.co/BuQ3vMwtPn,Tue Apr 24 08:01:02 +0000 2018,0.765,0.32,0.68,0.0
+312,BBC,"🌈👀 Did you know that depending on what language you speak, your eye perceives colours – and the world – differently… https://t.co/Q6Cn2rteK3",Tue Apr 24 07:29:05 +0000 2018,0.0,0.0,1.0,0.0
+313,BBC,"‘I’m determined to prove the terrorists wrong.’
+
+Martin was paralysed in the Manchester Arena attack and is now tra… https://t.co/qTRSdGxBeJ",Tue Apr 24 07:00:08 +0000 2018,-0.7003,0.09,0.639,0.271
+314,BBC,"RT @BBCTwo: It's #ShakespearesBirthday so here's Hamlet's famous ""To be or not to be"" speech, performed by Andrew Scott! 📜🎭🎂 https://t.co/b…",Mon Apr 23 19:15:23 +0000 2018,0.0,0.0,1.0,0.0
+315,BBC,👶💖 The Duke and Duchess of Cambridge introduce their new son to the world. https://t.co/nmrD1axv6Y,Mon Apr 23 18:53:11 +0000 2018,0.0,0.0,1.0,0.0
+316,BBC,✈️ Do you know how to wear an oxygen mask?  https://t.co/pf8lvubtc9,Mon Apr 23 18:01:04 +0000 2018,0.0,0.0,1.0,0.0
+317,BBC,RT @BBCBreaking: The Duke and Duchess of Cambridge show off new son outside London hospital https://t.co/lGZ2YAK7um #royalbaby https://t.co…,Mon Apr 23 16:58:47 +0000 2018,0.0,0.0,1.0,0.0
+318,BBC,❤️ The Duke of Cambridge has arrived at hospital with Prince George &amp; Princess Charlotte following birth of their b… https://t.co/w0QF6vPprS,Mon Apr 23 16:23:06 +0000 2018,0.0,0.0,1.0,0.0
+319,BBC,"😂 That time the police busted Mary Berry smuggling ingredients into America… 
+#TheGNShow https://t.co/slxL3klU3h",Mon Apr 23 16:01:07 +0000 2018,-0.4767,0.0,0.795,0.205
+320,CNN,RT @cnni: JUST IN: Prince William will be Prince Harry's best man at his wedding to Meghan Markle https://t.co/12qqmxwX8u https://t.co/vjtR…,Thu Apr 26 10:01:44 +0000 2018,0.6369,0.181,0.819,0.0
+321,CNN,"Under 16? Sorry, you're now banned from WhatsApp in Europe https://t.co/MZGNDxMIWk https://t.co/dfxbuKZe2b",Thu Apr 26 09:57:32 +0000 2018,-0.5106,0.0,0.699,0.301
+322,CNN,A Palestinian journalist has died of his wounds after being shot by an Israeli sniper in ongoing protests along the… https://t.co/BTkrArzB6Y,Thu Apr 26 09:51:13 +0000 2018,-0.6705,0.0,0.766,0.234
+323,CNN,"Hank Azaria says his ""eyes have been opened"" and he's willing to ""step aside"" from playing Apu, his controversial ""… https://t.co/I05voU69wU",Thu Apr 26 09:45:44 +0000 2018,0.0,0.08,0.841,0.08
+324,CNN,Get ready for the world's longest nonstop flight: Almost 20 hours https://t.co/PmXzonwyZM https://t.co/aC5FQ0w3uG,Thu Apr 26 09:38:40 +0000 2018,0.3612,0.172,0.828,0.0
+325,CNN,Wealthy Indians are turning to another program that fast tracks immigrants to a US green card https://t.co/yku4LYbNxk,Thu Apr 26 09:31:46 +0000 2018,0.3612,0.143,0.857,0.0
+326,CNN,HEALTH ALERT: https://t.co/ExEWhbZghh,Thu Apr 26 09:24:54 +0000 2018,0.4466,0.595,0.405,0.0
+327,CNN,"We are eating way, way too much salt https://t.co/YM96sVMzht",Thu Apr 26 09:15:29 +0000 2018,0.0,0.0,1.0,0.0
+328,CNN,"""Sleep better tonight. He isn't coming through the window,"" said one man whose family were victims of the Golden St… https://t.co/rFMHy4v2K1",Thu Apr 26 09:03:30 +0000 2018,0.1531,0.12,0.785,0.095
+329,CNN,"Orange is comforting. 
+Pink makes us less violent. 
+The psychology of color: https://t.co/FMeiwT4rwA https://t.co/D7pKvwDnoT",Thu Apr 26 08:52:00 +0000 2018,-0.228,0.147,0.655,0.197
+330,CNN,"Some classes of drugs used to treat depression, Parkinson's and urinary incontinence are tied to a 30% higher demen… https://t.co/PGCRtc9CD1",Thu Apr 26 08:40:10 +0000 2018,-0.25,0.115,0.726,0.158
+331,CNN,These are the possible crimes linked to the alleged Golden State Killer https://t.co/EF4vvqMP8m https://t.co/nvAjgSC37D,Thu Apr 26 08:28:51 +0000 2018,-0.6486,0.0,0.751,0.249
+332,CNN,"""Don't drive like my brother!"" The hosts of NPR's Car Talk are being inducted into the Automotive Hall of Fame… https://t.co/y8Pqr84rD7",Thu Apr 26 08:17:50 +0000 2018,-0.3404,0.0,0.893,0.107
+333,CNN,Thousands of people across Germany marched in solidarity with the country's Jewish community amid rising concerns o… https://t.co/fvs1jZA0Ht,Thu Apr 26 08:06:29 +0000 2018,0.296,0.115,0.885,0.0
+334,CNN,"North Korea's nuclear test in September was so strong that it caused an on-site collapse at the test site, geologis… https://t.co/HIHwKcpHCK",Thu Apr 26 07:54:55 +0000 2018,0.2596,0.16,0.719,0.121
+335,CNN,"Crime writer Michelle McNamara vowed to find the Golden State Killer. Two years after her death, fans believe she d… https://t.co/MH3Ccyf9nX",Thu Apr 26 07:43:47 +0000 2018,-0.9136,0.0,0.606,0.394
+336,CNN,The lengthy sentences have added to increasing fears over press freedom https://t.co/VbpNSGES7g,Thu Apr 26 07:32:49 +0000 2018,0.3818,0.314,0.523,0.163
+337,CNN,Ben Deri was serving as an Israeli border policeman four years ago when clashes erupted. He's been sentenced to nin… https://t.co/xaEm4egxgQ,Thu Apr 26 07:22:01 +0000 2018,-0.0258,0.0,0.948,0.052
+338,CNN,"""Incel"" is short for ""involuntarily celibate."" It's a movement of men who believe they have been unfairly denied se… https://t.co/1v6ssvOu4C",Thu Apr 26 07:13:29 +0000 2018,-0.4404,0.0,0.861,0.139
+339,CNN,French President Emmanuel Macron thinks Trump will pull out of the Iran nuclear deal https://t.co/nvqgrTGPzy https://t.co/lMBkzdodcE,Thu Apr 26 07:04:48 +0000 2018,0.0,0.0,1.0,0.0
+340,Fox News,"""There is no more important job than supporting the warriors who have fought and bled to keep us free.""
+
+WATCH:… https://t.co/IyGxBv1pqH",Thu Apr 26 15:20:20 +0000 2018,0.1263,0.188,0.642,0.17
+341,Fox News,"RT @FoxBusiness: .@POTUS: ""We're going to fight that opioid situation harder than anyone's fought it before."" https://t.co/c5bPoa3691",Thu Apr 26 15:17:13 +0000 2018,-0.5994,0.0,0.754,0.246
+342,Fox News,"RT @FoxBusiness: .@POTUS: ""We are fighting to reform the VA."" https://t.co/v7LCn1m4hg",Thu Apr 26 15:17:10 +0000 2018,-0.3612,0.0,0.8,0.2
+343,Fox News,".@POTUS: ""My pledge to you, our noble warriors, is that my administration will support you and your loved ones and… https://t.co/3CpV28emyu",Thu Apr 26 15:12:51 +0000 2018,0.8625,0.348,0.652,0.0
+344,Fox News,".@POTUS: ""We must always protect those who protect us. The heroes in this room today come from every background and… https://t.co/SHAxiaz06Q",Thu Apr 26 15:07:48 +0000 2018,0.8176,0.321,0.679,0.0
+345,Fox News,".@POTUS: ""There is no more important job than supporting the warriors who have fought and bled to keep us free."" https://t.co/u84poQWYmK",Thu Apr 26 15:05:37 +0000 2018,0.1263,0.188,0.642,0.17
+346,Fox News,".@POTUS: ""These are amazing people - the military spouses and families."" https://t.co/c6cLbYiBIK",Thu Apr 26 15:04:28 +0000 2018,0.5859,0.275,0.725,0.0
+347,Fox News,".@POTUS: ""A nation is sustained through the service and sacrifice of patriots. Each of you is part of the long unbr… https://t.co/A9jGyOyJIK",Thu Apr 26 15:03:02 +0000 2018,0.0,0.0,1.0,0.0
+348,Fox News,".@EPAScottPruitt: ""I have nothing to hide as it relates to how I've run the agency for the last 16 months."" https://t.co/GPtjcPno2a",Thu Apr 26 15:00:22 +0000 2018,0.1326,0.071,0.929,0.0
+349,Fox News,.@POTUS and @FLOTUS host the Wounded Warrior Project Soldier Ride at the @WhiteHouse. https://t.co/h2w0Yiz7MM,Thu Apr 26 15:00:13 +0000 2018,0.0,0.0,1.0,0.0
+350,Fox News,STARTING NOW: @POTUS welcomes wounded veterans to the @WhiteHouse - Fox News has full coverage right now. https://t.co/6sizVo2JmQ,Thu Apr 26 14:51:39 +0000 2018,0.4019,0.144,0.856,0.0
+351,Fox News,Rep. @NancyPelosi holds her weekly news conference. https://t.co/Ec59Yf8tkQ,Thu Apr 26 14:46:42 +0000 2018,0.0,0.0,1.0,0.0
+352,Fox News,"In an interview on @foxandfriends, @POTUS wished @FLOTUS a happy birthday. https://t.co/xskpvauacA",Thu Apr 26 14:42:52 +0000 2018,0.5719,0.27,0.73,0.0
+353,Fox News,Top #NFLDraft prospect's use of racial slur could doom him -- and 5 other stories to watch (via @RyanGaydos) https://t.co/klWj6szWa8,Thu Apr 26 14:35:19 +0000 2018,-0.2263,0.084,0.791,0.126
+354,Fox News,"Golden State Killer murder suspect threatened to ‘deliver load of death’ to a barking dog, neighbor says https://t.co/LqC1T3Bqjs",Thu Apr 26 14:25:21 +0000 2018,-0.9349,0.0,0.478,0.522
+355,Fox News,".@secnielsen testifies before the House Homeland Security Committee on ""Strengthening the Safety and Security of Ou… https://t.co/XYDUC4AnWg",Thu Apr 26 14:09:33 +0000 2018,0.8689,0.454,0.546,0.0
+356,Fox News,Prince Harry asks big brother Prince William to be his best man at wedding to Meghan Markle https://t.co/XtKCsGbHy7,Thu Apr 26 14:04:33 +0000 2018,0.6369,0.198,0.802,0.0
+357,Fox News,.@EPAScottPruitt testifies on Capitol Hill.  https://t.co/rKmu7ZWzAM,Thu Apr 26 14:03:41 +0000 2018,0.0,0.0,1.0,0.0
+358,Fox News,"Arizona schools close as thousands of teachers protest for more pay, school resources https://t.co/7fREfYd5Ts",Thu Apr 26 13:57:58 +0000 2018,-0.4005,0.0,0.765,0.235
+359,Fox News,"""Happy birthday to Melania!""
+
+@POTUS wishes @FLOTUS a happy birthday on @foxandfriends. https://t.co/s7hsrbS9wE",Thu Apr 26 13:32:58 +0000 2018,0.8516,0.508,0.492,0.0
+360,The New York Times,An Indian guru was sentenced to life in prison for the rape of a teenage girl. At least two witnesses who testified… https://t.co/eGAsJu5XTE,Thu Apr 26 09:29:04 +0000 2018,-0.8442,0.0,0.676,0.324
+361,The New York Times,An organization that uses architectural rendering software to uncover human rights abuses and 3 artists depicting s… https://t.co/Z0VO2vezoz,Thu Apr 26 09:15:04 +0000 2018,-0.5574,0.0,0.816,0.184
+362,The New York Times,"""The fact that the head of the Central Council of Jews in Germany has advised against wearing a kipa in public must… https://t.co/oHAb1Otejw",Thu Apr 26 08:59:06 +0000 2018,0.0,0.0,1.0,0.0
+363,The New York Times,"The New York Times movie review of ""Avengers: Infinity War"" https://t.co/TGfd9H381x",Thu Apr 26 08:46:02 +0000 2018,-0.5994,0.0,0.719,0.281
+364,The New York Times,"""To the algorithm, the content of an idea is irrelevant. Whether it's extremist or mainstream doesn't matter; only… https://t.co/092YX82NPB",Thu Apr 26 08:30:06 +0000 2018,-0.0191,0.0,0.944,0.056
+365,The New York Times,"RT @nytimesworld: Vincent Bolloré, a French tycoon known as the ""king of Africa,"" faces corruption inquiry in France https://t.co/TZNmCuMmkU",Thu Apr 26 08:14:03 +0000 2018,0.0,0.0,1.0,0.0
+366,The New York Times,"Michael Cohen, President Trump's personal lawyer, will invoke the Fifth Amendment in a lawsuit filed by Stormy Dani… https://t.co/n8rKkFEAaJ",Thu Apr 26 08:02:03 +0000 2018,-0.2263,0.0,0.899,0.101
+367,The New York Times,"Cristina Cifuentes, considered a possible successor to Spain's prime minister, quit her post after a video emerged… https://t.co/u36IOmwZaD",Thu Apr 26 07:47:05 +0000 2018,0.2263,0.112,0.888,0.0
+368,The New York Times,Pope Francis will host 3 victims of sexual abuse at the Vatican hotel to ask their forgiveness and listen to their… https://t.co/1bBfzhru7p,Thu Apr 26 07:32:04 +0000 2018,-0.6597,0.079,0.677,0.244
+369,The New York Times,"RT @nytopinion: In Dr. Ronny Jackson, Mick Mulvaney and Scott Pruitt, Trump has found his ""best people"" -- i.e. unsuitable candidates and g…",Thu Apr 26 07:17:05 +0000 2018,0.6369,0.16,0.84,0.0
+370,The New York Times,"When Pretty Yende was growing up in South Africa, she was aware of few role models for a black girl who wanted to b… https://t.co/zvIIt06PE8",Thu Apr 26 07:02:06 +0000 2018,0.5994,0.182,0.818,0.0
+371,The New York Times,"Vincent Bolloré, French Billionaire, Faces a Rare Corruption Inquiry https://t.co/5mLiIW2Gg5",Thu Apr 26 06:56:38 +0000 2018,0.0,0.0,1.0,0.0
+372,The New York Times,5 Cheap(ish) Things You Need for Summer Travel Season https://t.co/TkiZd2M3Uw,Thu Apr 26 06:48:44 +0000 2018,0.0,0.0,1.0,0.0
+373,The New York Times,RT @NYTHealth: Can a broken heart lead to a medical crisis? Millions wondered as George H.W. Bush returned to the hospital. The answer: Yes…,Thu Apr 26 06:32:02 +0000 2018,-0.802,0.0,0.735,0.265
+374,The New York Times,"You might ask, “Why does it take 7 people to write a song that sounds like it came from a computer?” But “The Middl… https://t.co/d0xCmmKgZX",Thu Apr 26 06:06:43 +0000 2018,0.3612,0.106,0.894,0.0
+375,The New York Times,RT @mirjordan: A ray of hope this week for young undocumented immigrants jolted by the ups and downs of DACA. Read all about their rollerco…,Thu Apr 26 06:05:10 +0000 2018,0.4404,0.112,0.888,0.0
+376,The New York Times,"A man given 20 months to live is still alive 10 years later, free of cancer. But the surgically implanted chemo pum… https://t.co/Oa0DIe4DkH",Thu Apr 26 05:49:12 +0000 2018,0.128,0.201,0.648,0.15
+377,The New York Times,RT @nytgraphics: A brief history of Ronny Jackson. https://t.co/H9aZA1zqkT,Thu Apr 26 05:32:04 +0000 2018,0.0,0.0,1.0,0.0
+378,The New York Times,"""When you fall in love, when you have fun with somebody, when you enjoy the way they see the world, nobody ever say… https://t.co/QkLI6pDd0n",Thu Apr 26 05:10:30 +0000 2018,0.8934,0.338,0.662,0.0
+379,The New York Times,“It is an astounding story.” A scientist spent years studying a gene. Then she had a baby with an extremely rare di… https://t.co/JUA4oG3CiW,Thu Apr 26 04:53:58 +0000 2018,0.4215,0.128,0.872,0.0
+380,BBC,"How much do you know about England, the English and the frequently odd things they do and eat? Celebrate… https://t.co/zCiIrdYYkW",Mon Apr 23 15:32:35 +0000 2018,-0.3182,0.0,0.892,0.108
+381,BBC,"How does plastic actually enter our oceans? 
+#OurBluePlanet  https://t.co/LdOt9inVFS",Mon Apr 23 15:03:01 +0000 2018,0.0,0.0,1.0,0.0
+382,BBC,RT @BBCNews: #royalbaby: Formal notice of birth displayed on forecourt of Buckingham Palace https://t.co/jU2MrpGseg https://t.co/wWgoKAeFaJ,Mon Apr 23 13:53:37 +0000 2018,0.0,0.0,1.0,0.0
+383,BBC,🐶❤️ Australian police have praised a dog for remaining with a three-year-old girl as she spent a night lost in bush… https://t.co/oGu1MgHiI0,Mon Apr 23 13:32:04 +0000 2018,0.2263,0.142,0.756,0.102
+384,BBC,"Beth is a trainee nurse about to start working in A&amp;E. 🏥🚑
+
+Can former nurse Una calm her nerves via a hidden earpie… https://t.co/Z1HXesGbkQ",Mon Apr 23 12:33:00 +0000 2018,0.2263,0.097,0.844,0.059
+385,BBC,"👶❤️ It's a boy! 
+
+The Duchess of Cambridge gives birth to her third child, who is fifth in line to throne. 
+👉… https://t.co/txzbor7jKG",Mon Apr 23 12:09:01 +0000 2018,0.0,0.0,1.0,0.0
+386,BBC,"Arthur? Albert? Mary? Alice?
+
+As the Duchess of Cambridge goes into labour with her third child, speculation contin… https://t.co/3a65q968kv",Mon Apr 23 11:27:23 +0000 2018,0.0,0.0,1.0,0.0
+387,BBC,"From Cold War spy station to Europe’s largest graffiti gallery.
+👉https://t.co/gesQ2io25H https://t.co/7FcEBRJepr",Mon Apr 23 11:00:19 +0000 2018,-0.5994,0.0,0.738,0.262
+388,BBC,"RT @BBC_Culture: Beyond their literary value, do stories have the power to change the world? @clemencybh #100Stories https://t.co/P5tqktMh0…",Mon Apr 23 10:59:52 +0000 2018,0.34,0.124,0.876,0.0
+389,BBC,"RT @BBCOne: Can @nilerogers &amp; Chic condense a lifetime of music into one minute?
+#GigInAMinute on #SoundsLikeFridayNight. https://t.co/IUYj…",Mon Apr 23 09:35:20 +0000 2018,0.2732,0.116,0.884,0.0
+390,BBC,RT @bbcthree: This woman will write you a letter when you're going through hard times. https://t.co/A2ZkmvZD9w,Mon Apr 23 09:34:07 +0000 2018,-0.1027,0.0,0.909,0.091
+391,BBC,"RT @BBCBreakfast: We're celebrating 20 years of @carolkirkwood on BBC Breakfast! 🎂🎊
+Here are just some of her best bits! 🙈😂 #20yearsofCarol…",Mon Apr 23 08:32:15 +0000 2018,0.8585,0.298,0.702,0.0
+392,BBC,🐮🥛 Is this the future of dairy farming?  https://t.co/goewsyXmgF,Mon Apr 23 08:00:13 +0000 2018,0.0,0.0,1.0,0.0
+393,BBC,"👶❤️ Royal baby on the way!
+
+The Duchess of Cambridge has been admitted to hospital in the early stages of labour wi… https://t.co/FoLkBUkiwB",Mon Apr 23 07:44:38 +0000 2018,0.1759,0.071,0.929,0.0
+394,BBC,RT @BBCBreaking: Duchess of Cambridge has been admitted to hospital in the early stages of labour with her third child https://t.co/ST2R53a…,Mon Apr 23 07:30:49 +0000 2018,0.1027,0.065,0.935,0.0
+395,BBC,"Contrary to popular belief, we now hear more diverse voices than ever before and most people do not live in Faceboo… https://t.co/RLgNf8khvQ",Mon Apr 23 07:30:05 +0000 2018,0.4215,0.118,0.882,0.0
+396,BBC,🚀 Three things you didn’t know about going to Mars. https://t.co/pOPJz82fXB,Mon Apr 23 07:00:09 +0000 2018,0.0,0.0,1.0,0.0
+397,BBC,"Stand up comedy from halloumi enthusiast and absolute lad @joelycett. 😂
+
+That's The Way, A-Ha A-Ha, Joe Lycett | 10… https://t.co/NHdfQKtLmC",Sun Apr 22 20:17:08 +0000 2018,0.6124,0.227,0.773,0.0
+398,BBC,The lives of two half-sisters and their drawing master get caught up in a deadly conspiracy revolving around a ment… https://t.co/Eczbbv1Xiq,Sun Apr 22 19:03:04 +0000 2018,-0.5267,0.0,0.841,0.159
+399,BBC,😍🐮 These cows have been let out for the first time in five months. https://t.co/RYBwAENw0L,Sun Apr 22 18:00:24 +0000 2018,0.0,0.0,1.0,0.0
